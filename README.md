@@ -6,7 +6,7 @@ Alias Profile on gitlab
 https://gitlab.com/summitgames
 
 POC (Portfolio)
-https://www.youtube.com/summitgamesentertainment
+[https://www.youtube.com/summitgamesentertainment](https://www.youtube.com/channel/UCakPxLfd_whe82UA_w8akSQ/videos)
 
 Background >>>
 Fast forward, now, it involves 8+ years of industry experience in the XR innovative tech. I, thus, have the gratitude of contributing to 12+ Gaming and 30+ AR and VR Projects, and 3+ Enterprise Applications. (development platforms adopting Unity 3D and Unreal Engine.)
