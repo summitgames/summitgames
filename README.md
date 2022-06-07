@@ -35,11 +35,11 @@ Product & Design Solutions
 - Architectural Solutions (Real Estate)
 - 3D Binaural/Spatial Audio VR Development
 
-I further, conduct workshops/hackathons as a Speaker/Trainer in-game architecture and programming subjects. He provides training on emerging technology such as AR, VR, and MR. (XR Industry)
+I further, conduct workshops/hackathons as a Speaker/Trainer in-game architecture and programming subjects. I also provide training on emerging technology such as AR, VR, and MR. (XR Industry)
 
 I am delighted to contribute to moderate XR Courses as an engineering subject in Universities.
 
-I looks forward to share my experience and knowledge via writing articles, open source solutions and white papers and books(for free without any royalty).
+I look forward to share my experience and knowledge via writing articles, open source solutions and white papers and books(for free without any royalty).
 
 📫 How to reach me 
 Email at "summitgamesentertainment@gmail.com"
