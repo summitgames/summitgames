@@ -2,6 +2,12 @@
 
 My professional journey began as a game/software engineer in the Gaming Industry. Having a deep inquisition for the entertainment industry, creatives like film and gaming that require innovative technological solutions was his inspiration.
 
+Alias Profile on gitlab
+https://gitlab.com/summitgames
+
+POC (Portfolio)
+youtube.com/summitgamesentertainment
+
 Background >>>
 Fast forward, now, it involves 8+ years of industry experience in the XR innovative tech. I, thus, have the gratitude of contributing to 12+ Gaming and 30+ AR and VR Projects, and 3+ Enterprise Applications. (development platforms adopting Unity 3D and Unreal Engine.)
 
